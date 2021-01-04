@@ -1,0 +1,76 @@
+[
+  {
+    "id": 0,
+    "name": "Car1",
+    "picture": "images/Car1.png",
+    "family": "TBA _1",
+    "madein": "Germany",
+    "cost" : 1 
+  },
+  {
+    "id": 1,
+    "name": "Car2",
+    "picture": "images/Car2.jpg",
+    "family": "TBA_2",
+    "madein": "Switzerland",
+    "cost" : 2
+  },
+  {
+    "id": 2,
+    "name": "Car3",
+    "picture": "images/Car3.jpg",
+    "family": "TBA_3",
+    "madein": "Japan",
+    "cost": 0.005
+
+  },
+  {
+    "id": 3,
+    "name": "Car4",
+    "picture": "images/Car1.png",
+    "family": "TBA_1",
+    "madein": "Germany",
+    "cost" : 1
+
+  },
+  {
+    "id": 4,
+    "name": "Car5",
+    "picture": "images/Car2.jpg",
+    "family": "TBA_2",
+    "madein": "Switzerland",
+    "cost" : 2
+  },
+  {
+    "id": 5,
+    "name": "Car6",
+    "picture": "images/Car3.jpg",
+    "family": "TBA_3",
+    "madein": "Japan",
+    "cost" : 3
+  },
+  {
+    "id": 6,
+    "name": "Car7",
+    "picture": "images/Car1.png",
+    "family": "TBA_1",
+    "madein": "Germany",
+    "cost" : 1
+  },
+  {
+    "id": 7,
+    "name": "Car8",
+    "picture": "images/Car2.jpg",
+    "family": "TBA_2",
+    "madein": "Switzerland",
+    "cost" : 2
+  },
+  {
+    "id": 8,
+    "name": "Car9",
+    "picture": "images/Car3.jpg",
+    "family": "TBA_3",
+    "madein": "Japan",
+    "cost" : 3
+  }
+]
